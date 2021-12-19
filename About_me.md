@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Divyanshu(19), a second year student(CSE) looking to learn and try out different things
+- 👀 I’m interested in AI, ML, Network Security, Physics and Maths
+- 🌱 I’m currently learning Python, Data Structures
+- 💞️ I’m looking to collaborate with new peers on different projects involving knowledge from diverse range of fields
+- 📫 You can reach me by E-mail - divyanshurana2425@gmail.com
